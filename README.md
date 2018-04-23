@@ -75,5 +75,5 @@ Credits
 
 A lot of the code is based in large part from the authors below:
 
-Jason Brownlee's [Machine Learning Master](https://machinelearningmastery.com)
-[Scipy 2017 sklearn Tutorials](https://github.com/amueller/scipy-2017-sklearn) from Alexandre Gramfort and Andreas Mueller
+- Jason Brownlee's [Machine Learning Master](https://machinelearningmastery.com)
+- [Scipy 2017 sklearn Tutorials](https://github.com/amueller/scipy-2017-sklearn) from Alexandre Gramfort and Andreas Mueller
